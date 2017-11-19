@@ -24,7 +24,6 @@
 		6410DC721FBCB507009CF0B9 /* FeaturedPlaylistModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6410DC711FBCB507009CF0B9 /* FeaturedPlaylistModel.swift */; };
 		6410DC741FBCB6BE009CF0B9 /* UserPlaylistModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6410DC731FBCB6BE009CF0B9 /* UserPlaylistModel.swift */; };
 		6410DC771FBCB983009CF0B9 /* ReleaseViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6410DC761FBCB983009CF0B9 /* ReleaseViewModel.swift */; };
-		6410DC7C1FBCCDDE009CF0B9 /* RxSpotifyDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6410DC7B1FBCCDDE009CF0B9 /* RxSpotifyDelegate.swift */; };
 		643E03981FBDAE2C0029EA63 /* FeaturedPlaylistViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 643E03971FBDAE2C0029EA63 /* FeaturedPlaylistViewModel.swift */; };
 		643E039A1FBDB44E0029EA63 /* FeaturedPlaylistsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 643E03991FBDB44E0029EA63 /* FeaturedPlaylistsTableViewCell.swift */; };
 		643E039C1FBDB7500029EA63 /* FeaturedPlaylistsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 643E039B1FBDB7500029EA63 /* FeaturedPlaylistsTableViewController.swift */; };
@@ -76,7 +75,6 @@
 		6410DC711FBCB507009CF0B9 /* FeaturedPlaylistModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturedPlaylistModel.swift; sourceTree = "<group>"; };
 		6410DC731FBCB6BE009CF0B9 /* UserPlaylistModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserPlaylistModel.swift; sourceTree = "<group>"; };
 		6410DC761FBCB983009CF0B9 /* ReleaseViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReleaseViewModel.swift; sourceTree = "<group>"; };
-		6410DC7B1FBCCDDE009CF0B9 /* RxSpotifyDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RxSpotifyDelegate.swift; sourceTree = "<group>"; };
 		643E03971FBDAE2C0029EA63 /* FeaturedPlaylistViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturedPlaylistViewModel.swift; sourceTree = "<group>"; };
 		643E03991FBDB44E0029EA63 /* FeaturedPlaylistsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturedPlaylistsTableViewCell.swift; sourceTree = "<group>"; };
 		643E039B1FBDB7500029EA63 /* FeaturedPlaylistsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturedPlaylistsTableViewController.swift; sourceTree = "<group>"; };
@@ -264,7 +262,6 @@
 		6410DC7A1FBCCDB8009CF0B9 /* Protocols */ = {
 			isa = PBXGroup;
 			children = (
-				6410DC7B1FBCCDDE009CF0B9 /* RxSpotifyDelegate.swift */,
 			);
 			name = Protocols;
 			sourceTree = "<group>";
@@ -597,7 +594,6 @@
 				640E117C1FBD7E45008E593B /* Extensions.swift in Sources */,
 				640E11821FBD862B008E593B /* Fetch+UIImageView.swift in Sources */,
 				640E117E1FBD8462008E593B /* ReleaseTableViewController.swift in Sources */,
-				6410DC7C1FBCCDDE009CF0B9 /* RxSpotifyDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

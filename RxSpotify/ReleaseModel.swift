@@ -8,7 +8,7 @@
 
 import Foundation
 
-class ReleaseModel: BaseModel {
+class ReleaseModel {
     var name: String?
     var artistName: String?
     var thumbnail: String?
