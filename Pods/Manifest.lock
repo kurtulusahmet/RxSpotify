@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.5.1)
+  - Hero (1.0.0)
+  - RAMAnimatedTabBarController (2.2.3)
+  - RxCocoa (4.0.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.0.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - Hero
+  - RAMAnimatedTabBarController
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  Hero: 18e7cf8af41c04c8532d1430ac174004a9365c87
+  RAMAnimatedTabBarController: 71adaa59ea22a8badfa242b8e068f0b9ebbb447d
+  RxCocoa: d62846ca96495d862fa4c59ea7d87e5031d7340e
+  RxSwift: fd680d75283beb5e2559486f3c0ff852f0d35334
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 180dbb388bf48db5e94a25b972330fd8c37f6916
+
+COCOAPODS: 1.3.1
